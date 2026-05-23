@@ -187,7 +187,7 @@ with tab1:
 
         extra_notes = st.text_area(
             "Extra Requirements (Optional)",
-            placeholder="e.g. Remote work okay, Must speak Sinhala...",
+            placeholder="e.g. Remote work okay, Must be available for night shifts...",
             height=70
         )
 
