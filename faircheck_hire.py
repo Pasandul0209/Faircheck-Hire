@@ -14,7 +14,7 @@ except:
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="FairCheck Hire v2 — by Colon DoubleSlash",
+    page_title="FairCheck Hire v2 —  by Colon DoubleSlash",
     page_icon="👔",
     layout="wide"
 )
