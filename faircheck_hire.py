@@ -32,7 +32,7 @@ st.markdown("""
     .stButton > button { background: linear-gradient(135deg, #00c853, #00897b) !important; color: white !important; border: none !important; border-radius: 10px !important; font-weight: 600 !important; font-size: 16px !important; }
     label { color: #aaa !important; font-size: 13px !important; }
 </style>
-""", unsafe_aow_html=True)
+""", unsafe_allow_html=True)
 
 # ── API Key ───────────────────────────────────────────────────────────────────
 try:
